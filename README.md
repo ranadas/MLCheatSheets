@@ -1,8 +1,6 @@
 
 # Awesome Cheatsheets for Data Science
 
-    This kernel has the curated list of Awesome Data Science Cheatsheets to rule the world.
-
 ## Table of Contents
 
 - [Business Science](#business-science)
