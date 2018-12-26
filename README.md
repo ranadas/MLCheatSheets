@@ -1,2 +1,0 @@
-# MLCheatSheets
-List of awesome cheat sheets for Data Science
